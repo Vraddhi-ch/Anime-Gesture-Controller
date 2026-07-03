@@ -1,0 +1,21 @@
+﻿# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor settings
+.vscode/
+.idea/
+
+# Personal training data
+dataset/gestures.csv
+
+# Raw recordings and logs
+*.mp4
+*.log
+
+# Large demo GIF kept locally
+assets/demo.gif
